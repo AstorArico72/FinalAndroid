@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Final Android</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Final Programación Android</string>
+    <string name="nav_header_subtitle">Por Astor Aricó</string>
+    <string name="nav_header_desc">Aplicación de notas</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Lista</string>
+    <string name="menu_cargar">Nueva</string>
+    <string name="menu_slideshow">Salir</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
